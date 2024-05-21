@@ -1,0 +1,211 @@
+[11-May-2024 16:16:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:17:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:17:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:17:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:17:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:19:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:19:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:20:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:23:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:24:07 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:25:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:30:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:31:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:32:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/themes/astra/inc/core/class-astra-admin-settings.php on line 248
+[11-May-2024 16:38:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(15)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 15, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->impor in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 16:39:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(16)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 16, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->impor in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 16:41:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 700416 bytes) in /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/functions.php on line 4329
+[11-May-2024 16:41:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(17)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 17, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->impor in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 16:42:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(18)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 18, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->impor in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 16:43:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 921600 bytes) in /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/functions.php on line 4329
+[11-May-2024 16:43:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(19)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 19, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->impor in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 16:43:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(20)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 20, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->impor in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 16:45:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 90112 bytes) in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-file-system.php on line 98
+[11-May-2024 16:45:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(37)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 37, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->impor in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 16:47:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-file-system.php on line 101
+[11-May-2024 16:47:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-file-system.php on line 101
+[11-May-2024 16:48:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(38)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 38, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->impor in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 16:48:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(39)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 39, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->impor in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:00:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(40)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 40, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->impor in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:06:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1114)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1114, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:06:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1115)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1115, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:08:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1116)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1116, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:08:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1117)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1117, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:13:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1136)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1136, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:20:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1155)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1155, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:20:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1156)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1156, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:20:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1157)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1157, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:26:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1158)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1158, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:26:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1159)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1159, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:38:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1180)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1180, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 18:43:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1181)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1181, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 19:13:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1201)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1201, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168
+[11-May-2024 19:32:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Astra_WXR_Importer' not found in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php:168
+Stack trace:
+#0 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(326): Astra_Sites_Importer->track_flows(1814)
+#1 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/kbanuwat/public_html/elysium.pp.ua/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(193): do_action('cartflows_flow_...', 1814, Array, Array)
+#4 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/cartflows/classes/importer/class-cartflows-importer.php(152): CartFlows_Importer->import_single_flow_from_json(Array)
+#5 /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(316): CartFlows_Importer->i in /home/kbanuwat/public_html/elysium.pp.ua/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php on line 168

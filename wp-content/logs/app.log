@@ -1,0 +1,1192 @@
+
+15-05-2024 19:46:51 [elysium.pp.ua][info] Parent plugin start installation!
+15-05-2024 19:46:51 [elysium.pp.ua][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.9
+15-05-2024 19:46:53 [elysium.pp.ua][info] Parent plugin installation complete!
+-------------------------------
+15-05-2024 19:53:03 [elysium.pp.ua][info] Try to create backup directory. Backup dir: (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/wio_backup)
+-------------------------------
+15-05-2024 19:59:45 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 19:59:45 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+15-05-2024 19:59:45 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:45 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+15-05-2024 19:59:45 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:45 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+15-05-2024 19:59:45 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:46 [elysium.pp.ua][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"9","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":119323,"final_size":84347,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792386}
+15-05-2024 19:59:46 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 117
+-------------------------------
+15-05-2024 19:59:47 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 19:59:47 [elysium.pp.ua][info] Try to create backup directory. Backup dir: (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/wio_backup/2024/05)
+15-05-2024 19:59:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/logo.png) to a remote server (server_1).
+15-05-2024 19:59:48 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:48 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/logo-150x40.png) to a remote server (server_1).
+15-05-2024 19:59:48 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:48 [elysium.pp.ua][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"21","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":3315,"final_size":2578,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":1275,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792388}
+15-05-2024 19:59:48 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 116
+-------------------------------
+15-05-2024 19:59:49 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 19:59:49 [elysium.pp.ua][info] Try to create backup directory. Backup dir: (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/wio_backup/2019/01)
+15-05-2024 19:59:49 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus4-free-img.jpg) to a remote server (server_1).
+15-05-2024 19:59:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:50 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus4-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 19:59:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:50 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus4-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 19:59:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:50 [elysium.pp.ua][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"68","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":44586,"final_size":43679,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":31149,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792390}
+15-05-2024 19:59:50 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 115
+-------------------------------
+15-05-2024 19:59:52 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 19:59:52 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus2-free-img.jpg) to a remote server (server_1).
+15-05-2024 19:59:52 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:52 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus2-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 19:59:52 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:52 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus2-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 19:59:52 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:52 [elysium.pp.ua][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"69","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":21121,"final_size":20958,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":12495,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792392}
+15-05-2024 19:59:52 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 114
+-------------------------------
+15-05-2024 19:59:54 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 19:59:54 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus1-free-img.jpg) to a remote server (server_1).
+15-05-2024 19:59:54 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus1-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 19:59:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus1-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 19:59:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:55 [elysium.pp.ua][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"70","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":28367,"final_size":27622,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":17922,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792395}
+15-05-2024 19:59:55 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 113
+-------------------------------
+15-05-2024 19:59:57 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 19:59:57 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus3-free-img.jpg) to a remote server (server_1).
+15-05-2024 19:59:57 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:57 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus3-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 19:59:57 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:57 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus3-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 19:59:58 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 19:59:58 [elysium.pp.ua][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"71","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":92144,"final_size":91249,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":80514,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792398}
+15-05-2024 19:59:58 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 112
+-------------------------------
+15-05-2024 19:59:59 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 19:59:59 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus5-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:00 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:00 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus5-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:00 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:00 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus5-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:00 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:00 [elysium.pp.ua][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"72","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":37919,"final_size":37119,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":24860,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792400}
+15-05-2024 20:00:00 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 111
+-------------------------------
+15-05-2024 20:00:02 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:02 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus6-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:02 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:02 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus6-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:03 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:03 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/cactus6-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:03 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:03 [elysium.pp.ua][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"73","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":42460,"final_size":41898,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":29949,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792403}
+15-05-2024 20:00:03 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 110
+-------------------------------
+15-05-2024 20:00:08 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:08 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant1-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:08 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:08 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant1-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:08 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:08 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant1-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:08 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:08 [elysium.pp.ua][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"74","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":58881,"final_size":58211,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":47674,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792408}
+15-05-2024 20:00:08 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 109
+-------------------------------
+15-05-2024 20:00:11 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:11 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant2-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:11 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:11 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant2-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:11 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:12 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant2-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:12 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:12 [elysium.pp.ua][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"75","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":28636,"final_size":27928,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":17571,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792412}
+15-05-2024 20:00:12 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 108
+-------------------------------
+15-05-2024 20:00:14 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:14 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant3-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:14 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:15 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant3-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:15 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:15 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant3-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:15 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:15 [elysium.pp.ua][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"76","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":33238,"final_size":32609,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":21375,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792415}
+15-05-2024 20:00:15 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 107
+-------------------------------
+15-05-2024 20:00:18 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:18 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant4-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:18 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:18 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant4-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:18 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:18 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant4-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:18 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:18 [elysium.pp.ua][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"77","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":43265,"final_size":42184,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":29386,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792418}
+15-05-2024 20:00:19 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 106
+-------------------------------
+15-05-2024 20:00:22 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:22 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant5-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:22 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:22 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant5-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:22 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:22 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant5-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:22 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:22 [elysium.pp.ua][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"78","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":83976,"final_size":82644,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":68765,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792422}
+15-05-2024 20:00:22 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 105
+-------------------------------
+15-05-2024 20:00:25 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:25 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant6-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:25 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:25 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant6-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:25 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:25 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/plant6-free-img-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:25 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:25 [elysium.pp.ua][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"79","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":39624,"final_size":38791,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":27243,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792425}
+15-05-2024 20:00:25 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 104
+-------------------------------
+15-05-2024 20:00:27 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:27 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/user1-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:27 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:28 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/user1-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:28 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:28 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/user1-free-img-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:28 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:28 [elysium.pp.ua][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"92","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":48189,"final_size":46998,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":25048,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792428}
+15-05-2024 20:00:28 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 103
+-------------------------------
+15-05-2024 20:00:30 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:30 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/user3-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:30 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:31 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/user3-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:31 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:31 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/user3-free-img-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:32 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:32 [elysium.pp.ua][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"94","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":41335,"final_size":40502,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":22173,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792432}
+15-05-2024 20:00:32 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 102
+-------------------------------
+15-05-2024 20:00:33 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:34 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/bg4-free-img.jpg) to a remote server (server_1).
+15-05-2024 20:00:34 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:34 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/bg4-free-img-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:34 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:34 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/bg4-free-img-300x169.jpg) to a remote server (server_1).
+15-05-2024 20:00:34 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:35 [elysium.pp.ua][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"140","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":104766,"final_size":103979,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":88300,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792435}
+15-05-2024 20:00:35 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 101
+-------------------------------
+15-05-2024 20:00:37 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:37 [elysium.pp.ua][info] Try to create backup directory. Backup dir: (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/wio_backup/2019/04)
+15-05-2024 20:00:37 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/04/woocommerce-placeholder.png) to a remote server (server_1).
+15-05-2024 20:00:37 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:37 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/04/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+15-05-2024 20:00:37 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:37 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/04/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+15-05-2024 20:00:37 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:37 [elysium.pp.ua][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"546","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":32573,"final_size":24304,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":18705,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792437}
+15-05-2024 20:00:37 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 100
+-------------------------------
+15-05-2024 20:00:39 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:39 [elysium.pp.ua][info] Try to create backup directory. Backup dir: (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/wio_backup/2020/01)
+15-05-2024 20:00:39 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/teammate-1.png) to a remote server (server_1).
+15-05-2024 20:00:39 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:40 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/teammate-1-150x150.png) to a remote server (server_1).
+15-05-2024 20:00:40 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:40 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/teammate-1-300x300.png) to a remote server (server_1).
+15-05-2024 20:00:40 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:40 [elysium.pp.ua][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"792","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":281054,"final_size":135298,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":193257,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792440}
+15-05-2024 20:00:40 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 99
+-------------------------------
+15-05-2024 20:00:42 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/teammate-3-1.png) to a remote server (server_1).
+15-05-2024 20:00:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/teammate-3-1-150x150.png) to a remote server (server_1).
+15-05-2024 20:00:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/teammate-3-1-300x300.png) to a remote server (server_1).
+15-05-2024 20:00:43 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:43 [elysium.pp.ua][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"797","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":276736,"final_size":130933,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":179323,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792443}
+15-05-2024 20:00:43 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 98
+-------------------------------
+15-05-2024 20:00:44 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:44 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/teammate-2.png) to a remote server (server_1).
+15-05-2024 20:00:45 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:45 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/teammate-2-150x150.png) to a remote server (server_1).
+15-05-2024 20:00:45 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:45 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/teammate-2-300x300.png) to a remote server (server_1).
+15-05-2024 20:00:45 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:45 [elysium.pp.ua][debug] New queue created #21, attributes values: {"server_id":null,"object_id":"799","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":224364,"final_size":125637,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":146509,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792445}
+15-05-2024 20:00:45 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 97
+-------------------------------
+15-05-2024 20:00:47 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/testimonial-2.jpg) to a remote server (server_1).
+15-05-2024 20:00:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/testimonial-2-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:48 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/01/testimonial-2-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:00:48 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:48 [elysium.pp.ua][debug] New queue created #22, attributes values: {"server_id":null,"object_id":"815","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":192972,"final_size":66555,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":171919,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792448}
+15-05-2024 20:00:48 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 96
+-------------------------------
+15-05-2024 20:00:49 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:49 [elysium.pp.ua][info] Try to create backup directory. Backup dir: (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/wio_backup/2020/07)
+15-05-2024 20:00:49 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/simply-natural-social-image.jpg) to a remote server (server_1).
+15-05-2024 20:00:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:50 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/simply-natural-social-image-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:51 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:51 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/simply-natural-social-image-300x157.jpg) to a remote server (server_1).
+15-05-2024 20:00:51 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:51 [elysium.pp.ua][debug] New queue created #23, attributes values: {"server_id":null,"object_id":"1056","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":76407,"final_size":73228,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":64955,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792451}
+15-05-2024 20:00:51 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 95
+-------------------------------
+15-05-2024 20:00:53 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:53 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/hero-bg.jpg) to a remote server (server_1).
+15-05-2024 20:00:54 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:54 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/hero-bg-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:54 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:54 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/hero-bg-300x200.jpg) to a remote server (server_1).
+15-05-2024 20:00:54 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:54 [elysium.pp.ua][debug] New queue created #24, attributes values: {"server_id":null,"object_id":"1070","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":58809,"final_size":58215,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":51232,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792454}
+15-05-2024 20:00:54 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 94
+-------------------------------
+15-05-2024 20:00:56 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:56 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/CTA-bg.jpg) to a remote server (server_1).
+15-05-2024 20:00:56 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:57 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/CTA-bg-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:00:57 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:57 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/CTA-bg-300x200.jpg) to a remote server (server_1).
+15-05-2024 20:00:57 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:00:57 [elysium.pp.ua][debug] New queue created #25, attributes values: {"server_id":null,"object_id":"1072","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":63210,"final_size":62570,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":56118,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792457}
+15-05-2024 20:00:57 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 93
+-------------------------------
+15-05-2024 20:00:59 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:00:59 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/store-bg.jpg) to a remote server (server_1).
+15-05-2024 20:00:59 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:00 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/store-bg-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:00 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:00 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/store-bg-300x270.jpg) to a remote server (server_1).
+15-05-2024 20:01:00 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:00 [elysium.pp.ua][debug] New queue created #26, attributes values: {"server_id":null,"object_id":"1074","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":78117,"final_size":77072,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":62968,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792460}
+15-05-2024 20:01:00 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 92
+-------------------------------
+15-05-2024 20:01:02 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:02 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/about-bg.jpg) to a remote server (server_1).
+15-05-2024 20:01:02 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:02 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/about-bg-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:02 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:03 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/about-bg-300x222.jpg) to a remote server (server_1).
+15-05-2024 20:01:03 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:03 [elysium.pp.ua][debug] New queue created #27, attributes values: {"server_id":null,"object_id":"1076","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":140378,"final_size":136952,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":123035,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792463}
+15-05-2024 20:01:03 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 91
+-------------------------------
+15-05-2024 20:01:05 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:05 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/contact-bg.jpg) to a remote server (server_1).
+15-05-2024 20:01:05 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:05 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/contact-bg-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:06 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:06 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2020/07/contact-bg-300x224.jpg) to a remote server (server_1).
+15-05-2024 20:01:06 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:07 [elysium.pp.ua][debug] New queue created #28, attributes values: {"server_id":null,"object_id":"1078","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":53733,"final_size":52867,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":43288,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792467}
+15-05-2024 20:01:07 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 90
+-------------------------------
+15-05-2024 20:01:09 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:09 [elysium.pp.ua][info] Try to create backup directory. Backup dir: (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/wio_backup/2021/08)
+15-05-2024 20:01:09 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2021/08/photo_5328133318870427287_y.jpg) to a remote server (server_1).
+15-05-2024 20:01:09 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:10 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2021/08/photo_5328133318870427287_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:10 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:10 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2021/08/photo_5328133318870427287_y-300x200.jpg) to a remote server (server_1).
+15-05-2024 20:01:10 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:10 [elysium.pp.ua][debug] New queue created #29, attributes values: {"server_id":null,"object_id":"1200","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":106389,"final_size":105376,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":89731,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792470}
+15-05-2024 20:01:10 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 89
+-------------------------------
+15-05-2024 20:01:12 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:12 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328133318870427287_y.jpg) to a remote server (server_1).
+15-05-2024 20:01:13 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:13 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328133318870427287_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:13 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:13 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328133318870427287_y-300x200.jpg) to a remote server (server_1).
+15-05-2024 20:01:13 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:13 [elysium.pp.ua][debug] New queue created #30, attributes values: {"server_id":null,"object_id":"1831","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":106389,"final_size":105376,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":89731,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792473}
+15-05-2024 20:01:13 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 88
+-------------------------------
+15-05-2024 20:01:15 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:15 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328133318870427270_y.jpg) to a remote server (server_1).
+15-05-2024 20:01:16 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:16 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328133318870427270_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:16 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:16 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328133318870427270_y-300x169.jpg) to a remote server (server_1).
+15-05-2024 20:01:16 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:16 [elysium.pp.ua][debug] New queue created #31, attributes values: {"server_id":null,"object_id":"1832","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":190429,"final_size":189266,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":167147,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792476}
+15-05-2024 20:01:17 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 87
+-------------------------------
+15-05-2024 20:01:19 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:19 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328133318870427259_x.jpg) to a remote server (server_1).
+15-05-2024 20:01:19 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:20 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328133318870427259_x-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:20 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328133318870427259_x-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:01:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:20 [elysium.pp.ua][debug] New queue created #32, attributes values: {"server_id":null,"object_id":"1833","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":91318,"final_size":89380,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":74245,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792480}
+15-05-2024 20:01:20 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 86
+-------------------------------
+15-05-2024 20:01:23 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:23 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645399_x.jpg) to a remote server (server_1).
+15-05-2024 20:01:23 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:23 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645399_x-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:23 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:23 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645399_x-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:01:24 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:24 [elysium.pp.ua][debug] New queue created #33, attributes values: {"server_id":null,"object_id":"1834","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":89638,"final_size":87663,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":73289,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792484}
+15-05-2024 20:01:24 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 85
+-------------------------------
+15-05-2024 20:01:25 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:26 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645413_x.jpg) to a remote server (server_1).
+15-05-2024 20:01:26 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:26 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645413_x-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:26 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:26 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645413_x-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:01:26 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:26 [elysium.pp.ua][debug] New queue created #34, attributes values: {"server_id":null,"object_id":"1835","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":60066,"final_size":58786,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":43506,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792486}
+15-05-2024 20:01:26 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 84
+-------------------------------
+15-05-2024 20:01:28 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:28 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645414_y.jpg) to a remote server (server_1).
+15-05-2024 20:01:28 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:28 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645414_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:29 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:29 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645414_y-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:01:29 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:29 [elysium.pp.ua][debug] New queue created #35, attributes values: {"server_id":null,"object_id":"1836","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":45705,"final_size":44745,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":32883,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792489}
+15-05-2024 20:01:29 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 83
+-------------------------------
+15-05-2024 20:01:32 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:32 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645415_x.jpg) to a remote server (server_1).
+15-05-2024 20:01:32 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:33 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645415_x-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:33 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:33 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645415_x-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:01:33 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:33 [elysium.pp.ua][debug] New queue created #36, attributes values: {"server_id":null,"object_id":"1837","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":93922,"final_size":91576,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":77855,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792493}
+15-05-2024 20:01:33 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 82
+-------------------------------
+15-05-2024 20:01:35 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:35 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645416_x.jpg) to a remote server (server_1).
+15-05-2024 20:01:36 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:36 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645416_x-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:36 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:36 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645416_x-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:01:36 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:36 [elysium.pp.ua][debug] New queue created #37, attributes values: {"server_id":null,"object_id":"1838","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":114038,"final_size":110876,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":94947,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792496}
+15-05-2024 20:01:36 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 81
+-------------------------------
+15-05-2024 20:01:39 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:39 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645417_x.jpg) to a remote server (server_1).
+15-05-2024 20:01:39 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:39 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645417_x-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:39 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:39 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645417_x-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:01:39 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:39 [elysium.pp.ua][debug] New queue created #38, attributes values: {"server_id":null,"object_id":"1839","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":86719,"final_size":84809,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":72872,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792499}
+15-05-2024 20:01:40 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 80
+-------------------------------
+15-05-2024 20:01:42 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960391_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:01:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960391_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960391_x-1-300x139.jpg) to a remote server (server_1).
+15-05-2024 20:01:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:42 [elysium.pp.ua][debug] New queue created #39, attributes values: {"server_id":null,"object_id":"1844","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":36784,"final_size":35883,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":26372,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792502}
+15-05-2024 20:01:43 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 79
+-------------------------------
+15-05-2024 20:01:46 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:46 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960390_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:01:46 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960390_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960390_y-1-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:01:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:47 [elysium.pp.ua][debug] New queue created #40, attributes values: {"server_id":null,"object_id":"1845","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":286544,"final_size":284985,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":258416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792507}
+15-05-2024 20:01:47 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 78
+-------------------------------
+15-05-2024 20:01:50 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:50 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960406_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:01:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:51 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960406_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:51 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:51 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960406_x-1-300x240.jpg) to a remote server (server_1).
+15-05-2024 20:01:51 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:51 [elysium.pp.ua][debug] New queue created #41, attributes values: {"server_id":null,"object_id":"1847","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":75004,"final_size":72424,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":64663,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792511}
+15-05-2024 20:01:51 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 77
+-------------------------------
+15-05-2024 20:01:55 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960405_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:01:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960405_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:01:56 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:56 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960405_y-1-300x210.jpg) to a remote server (server_1).
+15-05-2024 20:01:56 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:01:56 [elysium.pp.ua][debug] New queue created #42, attributes values: {"server_id":null,"object_id":"1848","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":92278,"final_size":91273,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":80263,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792516}
+15-05-2024 20:01:56 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 76
+-------------------------------
+15-05-2024 20:01:59 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:01:59 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960424_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:00 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:00 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960424_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:00 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:00 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960424_x-1-300x225.jpg) to a remote server (server_1).
+15-05-2024 20:02:00 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:00 [elysium.pp.ua][debug] New queue created #43, attributes values: {"server_id":null,"object_id":"1849","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":48467,"final_size":45722,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":39114,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792520}
+15-05-2024 20:02:00 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 75
+-------------------------------
+15-05-2024 20:02:05 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:05 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960423_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:05 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:05 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960423_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:05 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:05 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5325966065487960423_x-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:02:06 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:06 [elysium.pp.ua][debug] New queue created #44, attributes values: {"server_id":null,"object_id":"1850","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":71722,"final_size":70856,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":53134,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792526}
+15-05-2024 20:02:06 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 74
+-------------------------------
+15-05-2024 20:02:10 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:10 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645137_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:10 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:11 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645137_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:11 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:11 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645137_x-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:02:11 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:11 [elysium.pp.ua][debug] New queue created #45, attributes values: {"server_id":null,"object_id":"1852","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":23828,"final_size":23575,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":14190,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792531}
+15-05-2024 20:02:11 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 73
+-------------------------------
+15-05-2024 20:02:15 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:15 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645136_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:16 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:16 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645136_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:16 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:16 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645136_x-1-300x235.jpg) to a remote server (server_1).
+15-05-2024 20:02:16 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:16 [elysium.pp.ua][debug] New queue created #46, attributes values: {"server_id":null,"object_id":"1853","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":106583,"final_size":102900,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":89703,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792536}
+15-05-2024 20:02:16 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 72
+-------------------------------
+15-05-2024 20:02:19 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:19 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645143_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:19 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:20 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645143_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:20 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645143_y-1-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:02:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:20 [elysium.pp.ua][debug] New queue created #47, attributes values: {"server_id":null,"object_id":"1855","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":167001,"final_size":165907,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":149364,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792540}
+15-05-2024 20:02:20 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 71
+-------------------------------
+15-05-2024 20:02:24 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:24 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645142_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:24 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:24 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645142_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:24 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:24 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645142_y-1-225x300.jpg) to a remote server (server_1).
+15-05-2024 20:02:24 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:24 [elysium.pp.ua][debug] New queue created #48, attributes values: {"server_id":null,"object_id":"1856","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":130842,"final_size":129737,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":116360,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792544}
+15-05-2024 20:02:25 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 70
+-------------------------------
+15-05-2024 20:02:29 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:29 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645151_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:29 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:29 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645151_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:29 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:29 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645151_x-1-225x300.jpg) to a remote server (server_1).
+15-05-2024 20:02:29 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:29 [elysium.pp.ua][debug] New queue created #49, attributes values: {"server_id":null,"object_id":"1857","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":48366,"final_size":47198,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":36448,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792549}
+15-05-2024 20:02:30 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 69
+-------------------------------
+15-05-2024 20:02:33 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:33 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645150_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:33 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:34 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645150_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:34 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:34 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645150_y-1-225x300.jpg) to a remote server (server_1).
+15-05-2024 20:02:34 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:34 [elysium.pp.ua][debug] New queue created #50, attributes values: {"server_id":null,"object_id":"1858","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":110172,"final_size":109284,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":96007,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792554}
+15-05-2024 20:02:34 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 68
+-------------------------------
+15-05-2024 20:02:38 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:38 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645180_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:38 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:38 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645180_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:38 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:38 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645180_x-1-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:02:38 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:38 [elysium.pp.ua][debug] New queue created #51, attributes values: {"server_id":null,"object_id":"1861","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":119438,"final_size":115690,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":101870,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792558}
+15-05-2024 20:02:39 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 67
+-------------------------------
+15-05-2024 20:02:42 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645179_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645179_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645179_x-1-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:02:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:42 [elysium.pp.ua][debug] New queue created #52, attributes values: {"server_id":null,"object_id":"1862","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":114721,"final_size":111052,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":95950,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792562}
+15-05-2024 20:02:43 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 66
+-------------------------------
+15-05-2024 20:02:45 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:45 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645186_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:46 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:46 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645186_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:46 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:46 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645186_y-1-214x300.jpg) to a remote server (server_1).
+15-05-2024 20:02:46 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:46 [elysium.pp.ua][debug] New queue created #53, attributes values: {"server_id":null,"object_id":"1863","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":105765,"final_size":105022,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":90454,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792566}
+15-05-2024 20:02:46 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 65
+-------------------------------
+15-05-2024 20:02:49 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:49 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645185_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:49 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:50 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645185_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:50 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645185_y-1-214x300.jpg) to a remote server (server_1).
+15-05-2024 20:02:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:50 [elysium.pp.ua][debug] New queue created #54, attributes values: {"server_id":null,"object_id":"1864","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":97659,"final_size":96815,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":83437,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792570}
+15-05-2024 20:02:50 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 64
+-------------------------------
+15-05-2024 20:02:52 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:52 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645196_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:52 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:52 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645196_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:52 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:53 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645196_x-1-300x234.jpg) to a remote server (server_1).
+15-05-2024 20:02:53 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:53 [elysium.pp.ua][debug] New queue created #55, attributes values: {"server_id":null,"object_id":"1865","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":42667,"final_size":41670,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":30433,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792573}
+15-05-2024 20:02:53 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 63
+-------------------------------
+15-05-2024 20:02:55 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645195_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645195_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645195_x-1-300x263.jpg) to a remote server (server_1).
+15-05-2024 20:02:56 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:56 [elysium.pp.ua][debug] New queue created #56, attributes values: {"server_id":null,"object_id":"1866","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":44443,"final_size":43491,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":27621,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792576}
+15-05-2024 20:02:56 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 62
+-------------------------------
+15-05-2024 20:02:57 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:02:57 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645198_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:02:58 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:58 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645198_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:02:58 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:58 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645198_y-1-300x212.jpg) to a remote server (server_1).
+15-05-2024 20:02:58 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:02:58 [elysium.pp.ua][debug] New queue created #57, attributes values: {"server_id":null,"object_id":"1868","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":44358,"final_size":43668,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":35439,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792578}
+15-05-2024 20:02:58 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 61
+-------------------------------
+15-05-2024 20:03:00 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:00 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645197_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:01 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:01 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645197_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:01 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:01 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645197_x-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:01 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:01 [elysium.pp.ua][debug] New queue created #58, attributes values: {"server_id":null,"object_id":"1869","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":85797,"final_size":82694,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":72335,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792581}
+15-05-2024 20:03:01 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 60
+-------------------------------
+15-05-2024 20:03:05 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:05 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645203_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:05 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:05 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645203_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:05 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:05 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645203_y-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:06 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:06 [elysium.pp.ua][debug] New queue created #59, attributes values: {"server_id":null,"object_id":"1872","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":127723,"final_size":126954,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":110708,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792586}
+15-05-2024 20:03:06 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 59
+-------------------------------
+15-05-2024 20:03:08 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:08 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645202_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:08 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:08 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645202_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:08 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:08 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645202_x-1-300x274.jpg) to a remote server (server_1).
+15-05-2024 20:03:08 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:08 [elysium.pp.ua][debug] New queue created #60, attributes values: {"server_id":null,"object_id":"1873","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":45740,"final_size":44909,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":32163,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792588}
+15-05-2024 20:03:08 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 58
+-------------------------------
+15-05-2024 20:03:11 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:11 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645217_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:12 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:12 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645217_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:12 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:12 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645217_y-1-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:12 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:13 [elysium.pp.ua][debug] New queue created #61, attributes values: {"server_id":null,"object_id":"1875","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":168243,"final_size":167386,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":150213,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792593}
+15-05-2024 20:03:13 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 57
+-------------------------------
+15-05-2024 20:03:16 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:16 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645216_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:16 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:16 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645216_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:17 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:17 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2019/01/photo_5328217865301645216_y-1-225x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:17 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:17 [elysium.pp.ua][debug] New queue created #62, attributes values: {"server_id":null,"object_id":"1876","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":138508,"final_size":137475,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":120239,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792597}
+15-05-2024 20:03:17 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 56
+-------------------------------
+15-05-2024 20:03:19 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:19 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645234_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:19 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:20 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645234_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:20 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645234_x-1-225x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:20 [elysium.pp.ua][debug] New queue created #63, attributes values: {"server_id":null,"object_id":"1878","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":109127,"final_size":105318,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":91778,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792600}
+15-05-2024 20:03:20 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 55
+-------------------------------
+15-05-2024 20:03:22 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:22 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645233_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:23 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:23 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645233_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:23 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:23 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645233_y-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:23 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:23 [elysium.pp.ua][debug] New queue created #64, attributes values: {"server_id":null,"object_id":"1879","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":175515,"final_size":174709,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":157901,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792603}
+15-05-2024 20:03:23 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 54
+-------------------------------
+15-05-2024 20:03:26 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:26 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645242_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:26 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:26 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645242_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:26 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:26 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645242_y-1-241x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:27 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:27 [elysium.pp.ua][debug] New queue created #65, attributes values: {"server_id":null,"object_id":"1881","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":90600,"final_size":89372,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":77190,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792607}
+15-05-2024 20:03:27 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 53
+-------------------------------
+15-05-2024 20:03:29 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:29 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645241_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:29 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:29 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645241_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:29 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:29 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645241_y-1-225x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:29 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:30 [elysium.pp.ua][debug] New queue created #66, attributes values: {"server_id":null,"object_id":"1882","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":99225,"final_size":98981,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":90020,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792610}
+15-05-2024 20:03:30 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 52
+-------------------------------
+15-05-2024 20:03:32 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:32 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645262_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:32 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:32 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645262_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:32 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:33 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645262_x-1-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:33 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:33 [elysium.pp.ua][debug] New queue created #67, attributes values: {"server_id":null,"object_id":"1884","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":104976,"final_size":101703,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":87423,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792613}
+15-05-2024 20:03:33 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 51
+-------------------------------
+15-05-2024 20:03:35 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:35 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645261_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:35 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:35 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645261_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:35 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:36 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645261_x-1-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:36 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:36 [elysium.pp.ua][debug] New queue created #68, attributes values: {"server_id":null,"object_id":"1885","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":109757,"final_size":106693,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":91516,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792616}
+15-05-2024 20:03:36 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 50
+-------------------------------
+15-05-2024 20:03:38 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:38 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645273_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:38 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:38 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645273_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:39 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:39 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645273_x-1-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:39 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:39 [elysium.pp.ua][debug] New queue created #69, attributes values: {"server_id":null,"object_id":"1887","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":63599,"final_size":62419,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":44410,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792619}
+15-05-2024 20:03:39 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 49
+-------------------------------
+15-05-2024 20:03:41 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:41 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645272_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:41 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:41 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645272_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645272_y-1-300x277.jpg) to a remote server (server_1).
+15-05-2024 20:03:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:42 [elysium.pp.ua][debug] New queue created #70, attributes values: {"server_id":null,"object_id":"1888","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":127094,"final_size":126157,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":107721,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792622}
+15-05-2024 20:03:42 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 48
+-------------------------------
+15-05-2024 20:03:46 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:46 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645288_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645288_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645288_y-1-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:47 [elysium.pp.ua][debug] New queue created #71, attributes values: {"server_id":null,"object_id":"1890","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":100612,"final_size":99848,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":85405,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792627}
+15-05-2024 20:03:47 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 47
+-------------------------------
+15-05-2024 20:03:50 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:50 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645287_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:51 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:51 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645287_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:51 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:51 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645287_y-1-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:51 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:51 [elysium.pp.ua][debug] New queue created #72, attributes values: {"server_id":null,"object_id":"1891","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":126391,"final_size":125693,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":109156,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792631}
+15-05-2024 20:03:51 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 46
+-------------------------------
+15-05-2024 20:03:54 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:54 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645304_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:54 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:54 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645304_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645304_x-1-221x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:55 [elysium.pp.ua][debug] New queue created #73, attributes values: {"server_id":null,"object_id":"1893","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":128094,"final_size":123348,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":104664,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792635}
+15-05-2024 20:03:55 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 45
+-------------------------------
+15-05-2024 20:03:58 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:03:58 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645303_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:03:59 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:59 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645303_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:03:59 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:59 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645303_y-1-169x300.jpg) to a remote server (server_1).
+15-05-2024 20:03:59 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:03:59 [elysium.pp.ua][debug] New queue created #74, attributes values: {"server_id":null,"object_id":"1894","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":104677,"final_size":103904,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":88744,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792639}
+15-05-2024 20:03:59 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 44
+-------------------------------
+15-05-2024 20:04:03 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:04 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645307_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:04 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:04 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645307_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:04 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:04 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645307_x-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:04 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:05 [elysium.pp.ua][debug] New queue created #75, attributes values: {"server_id":null,"object_id":"1896","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":156661,"final_size":154601,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":120742,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792645}
+15-05-2024 20:04:05 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 43
+-------------------------------
+15-05-2024 20:04:07 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:07 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645306_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:08 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:08 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645306_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:08 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:08 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645306_x-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:08 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:08 [elysium.pp.ua][debug] New queue created #76, attributes values: {"server_id":null,"object_id":"1897","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":220413,"final_size":210066,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":190131,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792648}
+15-05-2024 20:04:08 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 42
+-------------------------------
+15-05-2024 20:04:10 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:10 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645314_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:11 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:11 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645314_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:11 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:11 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645314_x-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:11 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:11 [elysium.pp.ua][debug] New queue created #77, attributes values: {"server_id":null,"object_id":"1899","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":57862,"final_size":57077,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":40839,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792651}
+15-05-2024 20:04:11 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 41
+-------------------------------
+15-05-2024 20:04:13 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:13 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645313_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:13 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:14 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645313_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:14 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:14 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645313_x-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:14 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:14 [elysium.pp.ua][debug] New queue created #78, attributes values: {"server_id":null,"object_id":"1900","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":93108,"final_size":92130,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":73141,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792654}
+15-05-2024 20:04:14 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 40
+-------------------------------
+15-05-2024 20:04:16 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:16 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645323_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:17 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:17 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645323_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:17 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:17 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645323_y-1-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:17 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:17 [elysium.pp.ua][debug] New queue created #79, attributes values: {"server_id":null,"object_id":"1902","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":115983,"final_size":115069,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":96631,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792657}
+15-05-2024 20:04:17 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 39
+-------------------------------
+15-05-2024 20:04:19 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:19 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645322_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:20 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645322_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:20 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645322_y-1-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:20 [elysium.pp.ua][debug] New queue created #80, attributes values: {"server_id":null,"object_id":"1903","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":142412,"final_size":141612,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":122172,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792660}
+15-05-2024 20:04:20 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 38
+-------------------------------
+15-05-2024 20:04:25 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:25 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645337_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:25 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:25 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645337_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:26 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:26 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645337_y-1-225x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:26 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:26 [elysium.pp.ua][debug] New queue created #81, attributes values: {"server_id":null,"object_id":"1906","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":152134,"final_size":151223,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":134349,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792666}
+15-05-2024 20:04:26 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 37
+-------------------------------
+15-05-2024 20:04:30 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:30 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645336_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:30 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:30 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645336_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:31 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:31 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645336_y-1-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:31 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:31 [elysium.pp.ua][debug] New queue created #82, attributes values: {"server_id":null,"object_id":"1907","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":178231,"final_size":177107,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":158540,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792671}
+15-05-2024 20:04:31 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 36
+-------------------------------
+15-05-2024 20:04:34 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:34 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645349_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:34 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:34 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645349_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:34 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:34 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645349_x-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:34 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:34 [elysium.pp.ua][debug] New queue created #83, attributes values: {"server_id":null,"object_id":"1909","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":42377,"final_size":41574,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":31232,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792674}
+15-05-2024 20:04:35 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+15-05-2024 20:04:37 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:37 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645348_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:37 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:38 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645348_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:38 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:38 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645348_y-1-249x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:38 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:38 [elysium.pp.ua][debug] New queue created #84, attributes values: {"server_id":null,"object_id":"1910","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":72613,"final_size":72389,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":64555,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792678}
+15-05-2024 20:04:38 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+15-05-2024 20:04:40 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:40 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645359_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:40 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:41 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645359_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:41 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:41 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645359_x-1-243x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:41 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:41 [elysium.pp.ua][debug] New queue created #85, attributes values: {"server_id":null,"object_id":"1912","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":41502,"final_size":39731,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":30666,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792681}
+15-05-2024 20:04:41 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+15-05-2024 20:04:44 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:44 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645357_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:44 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:44 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645357_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:44 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:44 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645357_y-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:44 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:44 [elysium.pp.ua][debug] New queue created #86, attributes values: {"server_id":null,"object_id":"1913","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":65493,"final_size":64304,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":51491,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792684}
+15-05-2024 20:04:45 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+15-05-2024 20:04:47 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645363_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645363_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645363_x-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:47 [elysium.pp.ua][debug] New queue created #87, attributes values: {"server_id":null,"object_id":"1915","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":55288,"final_size":54530,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":37821,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792687}
+15-05-2024 20:04:47 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+15-05-2024 20:04:49 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:49 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645362_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:49 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:50 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645362_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:50 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645362_x-1-300x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:50 [elysium.pp.ua][debug] New queue created #88, attributes values: {"server_id":null,"object_id":"1916","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":53777,"final_size":52817,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":36009,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792690}
+15-05-2024 20:04:50 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+15-05-2024 20:04:52 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:52 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/images-1.jpg) to a remote server (server_1).
+15-05-2024 20:04:52 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:52 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/images-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:52 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:52 [elysium.pp.ua][debug] New queue created #89, attributes values: {"server_id":null,"object_id":"1918","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":13509,"final_size":13142,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":7865,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792692}
+15-05-2024 20:04:52 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+15-05-2024 20:04:54 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:54 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/324860_15.jpg) to a remote server (server_1).
+15-05-2024 20:04:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/324860_15-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/324860_15-240x300.jpg) to a remote server (server_1).
+15-05-2024 20:04:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:55 [elysium.pp.ua][debug] New queue created #90, attributes values: {"server_id":null,"object_id":"1919","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":92340,"final_size":91292,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":72465,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792695}
+15-05-2024 20:04:55 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+15-05-2024 20:04:57 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:04:57 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645150_y-2.jpg) to a remote server (server_1).
+15-05-2024 20:04:58 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:58 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645150_y-2-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:04:58 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:58 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645150_y-2-300x250.jpg) to a remote server (server_1).
+15-05-2024 20:04:58 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:04:58 [elysium.pp.ua][debug] New queue created #91, attributes values: {"server_id":null,"object_id":"1920","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":75332,"final_size":74446,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":60605,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792698}
+15-05-2024 20:04:58 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+15-05-2024 20:05:00 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:00 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645262_x-2.jpg) to a remote server (server_1).
+15-05-2024 20:05:00 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:01 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645262_x-2-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:01 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:01 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645262_x-2-300x250.jpg) to a remote server (server_1).
+15-05-2024 20:05:01 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:01 [elysium.pp.ua][debug] New queue created #92, attributes values: {"server_id":null,"object_id":"1921","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":127179,"final_size":123254,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":109096,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792701}
+15-05-2024 20:05:01 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+15-05-2024 20:05:05 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:05 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645336_y-2.jpg) to a remote server (server_1).
+15-05-2024 20:05:05 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:06 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645336_y-2-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:06 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:06 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645336_y-2-300x250.jpg) to a remote server (server_1).
+15-05-2024 20:05:06 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:06 [elysium.pp.ua][debug] New queue created #93, attributes values: {"server_id":null,"object_id":"1922","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":130290,"final_size":128355,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":110426,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792706}
+15-05-2024 20:05:06 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+15-05-2024 20:05:09 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:09 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y.jpg) to a remote server (server_1).
+15-05-2024 20:05:09 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:09 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:10 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:10 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-200x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:10 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:10 [elysium.pp.ua][debug] New queue created #94, attributes values: {"server_id":null,"object_id":"1923","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":109130,"final_size":108430,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":91864,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792710}
+15-05-2024 20:05:10 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+15-05-2024 20:05:12 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:12 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x.jpg) to a remote server (server_1).
+15-05-2024 20:05:12 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:12 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:12 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:12 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-209x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:12 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:12 [elysium.pp.ua][debug] New queue created #95, attributes values: {"server_id":null,"object_id":"1924","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":76596,"final_size":75669,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":60863,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792712}
+15-05-2024 20:05:13 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+15-05-2024 20:05:14 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:14 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y.jpg) to a remote server (server_1).
+15-05-2024 20:05:14 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:15 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:15 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:15 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-225x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:15 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:15 [elysium.pp.ua][debug] New queue created #96, attributes values: {"server_id":null,"object_id":"1925","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":163538,"final_size":162703,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":143672,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792715}
+15-05-2024 20:05:15 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+15-05-2024 20:05:17 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:17 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645150_y-2-1.jpg) to a remote server (server_1).
+15-05-2024 20:05:17 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:17 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645150_y-2-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:17 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:17 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645150_y-2-1-300x250.jpg) to a remote server (server_1).
+15-05-2024 20:05:18 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:18 [elysium.pp.ua][debug] New queue created #97, attributes values: {"server_id":null,"object_id":"1926","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":75332,"final_size":74446,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":60605,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792718}
+15-05-2024 20:05:18 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+15-05-2024 20:05:19 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:19 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645262_x-2-1.jpg) to a remote server (server_1).
+15-05-2024 20:05:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:20 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645262_x-2-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:20 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645262_x-2-1-300x250.jpg) to a remote server (server_1).
+15-05-2024 20:05:20 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:20 [elysium.pp.ua][debug] New queue created #98, attributes values: {"server_id":null,"object_id":"1927","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":127179,"final_size":123254,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":109096,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792720}
+15-05-2024 20:05:20 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+15-05-2024 20:05:22 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:22 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645336_y-2-1.jpg) to a remote server (server_1).
+15-05-2024 20:05:22 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:23 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645336_y-2-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:23 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:23 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5328217865301645336_y-2-1-300x250.jpg) to a remote server (server_1).
+15-05-2024 20:05:23 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:23 [elysium.pp.ua][debug] New queue created #99, attributes values: {"server_id":null,"object_id":"1928","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":130290,"final_size":128355,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":110426,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792723}
+15-05-2024 20:05:23 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+15-05-2024 20:05:25 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:25 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:05:25 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:25 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:25 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:25 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-1-209x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:25 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:26 [elysium.pp.ua][debug] New queue created #100, attributes values: {"server_id":null,"object_id":"1929","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":69078,"final_size":68122,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":51268,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792726}
+15-05-2024 20:05:26 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+15-05-2024 20:05:27 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:27 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:05:27 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:28 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:28 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:28 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-1-209x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:28 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:28 [elysium.pp.ua][debug] New queue created #101, attributes values: {"server_id":null,"object_id":"1930","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":78393,"final_size":76689,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":59663,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792728}
+15-05-2024 20:05:28 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+15-05-2024 20:05:30 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:30 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-1.jpg) to a remote server (server_1).
+15-05-2024 20:05:30 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:30 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:30 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:30 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-1-209x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:30 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:30 [elysium.pp.ua][debug] New queue created #102, attributes values: {"server_id":null,"object_id":"1931","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":76665,"final_size":75748,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":60914,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792730}
+15-05-2024 20:05:30 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+15-05-2024 20:05:32 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:32 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794477_x.jpg) to a remote server (server_1).
+15-05-2024 20:05:32 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:32 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794477_x-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:32 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:32 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794477_x-300x225.jpg) to a remote server (server_1).
+15-05-2024 20:05:33 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:33 [elysium.pp.ua][debug] New queue created #103, attributes values: {"server_id":null,"object_id":"1939","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":75798,"final_size":74604,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":60761,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792733}
+15-05-2024 20:05:33 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+15-05-2024 20:05:34 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:34 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794489_y.jpg) to a remote server (server_1).
+15-05-2024 20:05:34 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:35 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794489_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:35 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:35 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794489_y-300x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:35 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:35 [elysium.pp.ua][debug] New queue created #104, attributes values: {"server_id":null,"object_id":"1952","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":39926,"final_size":39383,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":32797,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792735}
+15-05-2024 20:05:35 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+15-05-2024 20:05:36 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:36 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-2.jpg) to a remote server (server_1).
+15-05-2024 20:05:37 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:37 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-2-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:37 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:37 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-2-209x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:37 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:37 [elysium.pp.ua][debug] New queue created #105, attributes values: {"server_id":null,"object_id":"1973","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":53501,"final_size":52373,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":34480,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792737}
+15-05-2024 20:05:37 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+15-05-2024 20:05:39 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:39 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-2.jpg) to a remote server (server_1).
+15-05-2024 20:05:39 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:39 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-2-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:39 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:39 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-2-209x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:39 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:40 [elysium.pp.ua][debug] New queue created #106, attributes values: {"server_id":null,"object_id":"1974","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":54049,"final_size":53129,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":38159,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792740}
+15-05-2024 20:05:40 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+15-05-2024 20:05:41 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:41 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-2.jpg) to a remote server (server_1).
+15-05-2024 20:05:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-2-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:42 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-2-209x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:42 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:42 [elysium.pp.ua][debug] New queue created #107, attributes values: {"server_id":null,"object_id":"1975","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":48406,"final_size":47569,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":30343,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792742}
+15-05-2024 20:05:42 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+15-05-2024 20:05:44 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:44 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-3.jpg) to a remote server (server_1).
+15-05-2024 20:05:45 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:45 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-3-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:45 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:45 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794461_y-3-208x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:45 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:45 [elysium.pp.ua][debug] New queue created #108, attributes values: {"server_id":null,"object_id":"1988","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":49665,"final_size":48713,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":31226,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792745}
+15-05-2024 20:05:45 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+15-05-2024 20:05:47 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-3.jpg) to a remote server (server_1).
+15-05-2024 20:05:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-3-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:47 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794462_x-3-208x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:47 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:48 [elysium.pp.ua][debug] New queue created #109, attributes values: {"server_id":null,"object_id":"1989","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":50810,"final_size":49763,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":35314,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792748}
+15-05-2024 20:05:48 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+15-05-2024 20:05:49 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:49 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-3.jpg) to a remote server (server_1).
+15-05-2024 20:05:49 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:49 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-3-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:50 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5332636918497794463_y-3-208x300.jpg) to a remote server (server_1).
+15-05-2024 20:05:50 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:50 [elysium.pp.ua][debug] New queue created #110, attributes values: {"server_id":null,"object_id":"1990","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":45391,"final_size":44573,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":27741,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792750}
+15-05-2024 20:05:50 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+15-05-2024 20:05:51 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:51 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344299_y.jpg) to a remote server (server_1).
+15-05-2024 20:05:52 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:52 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344299_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:52 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:52 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344299_y-300x200.jpg) to a remote server (server_1).
+15-05-2024 20:05:52 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:52 [elysium.pp.ua][debug] New queue created #111, attributes values: {"server_id":null,"object_id":"2003","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":157426,"final_size":156247,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":135093,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792752}
+15-05-2024 20:05:52 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+15-05-2024 20:05:54 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:54 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344298_y-e1715610453418.jpg) to a remote server (server_1).
+15-05-2024 20:05:54 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344298_y-e1715610453418-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:55 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344298_y-e1715610453418-300x185.jpg) to a remote server (server_1).
+15-05-2024 20:05:55 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:55 [elysium.pp.ua][debug] New queue created #112, attributes values: {"server_id":null,"object_id":"2004","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":122001,"final_size":110862,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":105341,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792755}
+15-05-2024 20:05:55 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+15-05-2024 20:05:57 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:05:57 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344333_y.jpg) to a remote server (server_1).
+15-05-2024 20:05:57 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:57 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344333_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:05:57 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:57 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344333_y-300x225.jpg) to a remote server (server_1).
+15-05-2024 20:05:58 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:05:58 [elysium.pp.ua][debug] New queue created #113, attributes values: {"server_id":null,"object_id":"2022","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":180705,"final_size":179766,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":159009,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792758}
+15-05-2024 20:05:58 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+15-05-2024 20:06:00 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:06:00 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344336_y.jpg) to a remote server (server_1).
+15-05-2024 20:06:00 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:00 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344336_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:06:01 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:01 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344336_y-300x225.jpg) to a remote server (server_1).
+15-05-2024 20:06:01 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:01 [elysium.pp.ua][debug] New queue created #114, attributes values: {"server_id":null,"object_id":"2026","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":143127,"final_size":142315,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":124858,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792761}
+15-05-2024 20:06:01 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+15-05-2024 20:06:05 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:06:05 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344347_y.jpg) to a remote server (server_1).
+15-05-2024 20:06:05 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:06 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344347_y-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:06:06 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:06 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344347_y-300x183.jpg) to a remote server (server_1).
+15-05-2024 20:06:06 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:06 [elysium.pp.ua][debug] New queue created #115, attributes values: {"server_id":null,"object_id":"2034","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":80556,"final_size":79706,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":65961,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792766}
+15-05-2024 20:06:06 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+15-05-2024 20:06:09 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:06:09 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344298_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:06:09 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:09 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344298_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:06:09 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:09 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344298_y-1-300x200.jpg) to a remote server (server_1).
+15-05-2024 20:06:10 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:10 [elysium.pp.ua][debug] New queue created #116, attributes values: {"server_id":null,"object_id":"2057","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":44332,"final_size":43554,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":26580,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792770}
+15-05-2024 20:06:10 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+15-05-2024 20:06:12 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:06:12 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344299_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:06:12 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:12 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344299_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:06:12 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:13 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344299_y-1-300x200.jpg) to a remote server (server_1).
+15-05-2024 20:06:13 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:13 [elysium.pp.ua][debug] New queue created #117, attributes values: {"server_id":null,"object_id":"2058","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":59444,"final_size":58151,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":36887,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792773}
+15-05-2024 20:06:13 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+15-05-2024 20:06:15 [elysium.pp.ua][info] Start bulk optimization process! Scope: media-library
+15-05-2024 20:06:15 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344333_y-1.jpg) to a remote server (server_1).
+15-05-2024 20:06:15 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:15 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344333_y-1-150x150.jpg) to a remote server (server_1).
+15-05-2024 20:06:16 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:16 [elysium.pp.ua][info] Preparing to upload a file (/home/kbanuwat/public_html/elysium.pp.ua/wp-content/uploads/2024/05/photo_5337139444383344333_y-1-300x200.jpg) to a remote server (server_1).
+15-05-2024 20:06:16 [elysium.pp.ua][info] File successfully uploaded to remote server (server_1).
+15-05-2024 20:06:16 [elysium.pp.ua][debug] New queue created #118, attributes values: {"server_id":null,"object_id":"2059","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":56771,"final_size":55628,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":36519,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715792776}
+15-05-2024 20:06:16 [elysium.pp.ua][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
